@@ -1,0 +1,8 @@
+{
+    "servers": [
+        {
+            "name": "WGY Server",
+            "address": "http://8.130.49.60:6969/"
+        }
+    ]
+}
